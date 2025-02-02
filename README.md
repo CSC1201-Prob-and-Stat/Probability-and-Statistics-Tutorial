@@ -11,7 +11,7 @@ Key textbooks and materials to guide the learning process:
    - "Introduction to Probability and Statistics for Engineers and Scientists" 5th Edition, Academic Press, 2014.
    - "Think Stats: Exploratory Data Analysis in Python" by Allen B. Downey, Second Edition, O’Reilly Media, 2014.
    - [Synthetic mobile money transaction datasets](https://data.mendeley.com/datasets/zhj366m53p/2)
-   - [Mobile money transaction simulator (MoMTSim)](https://doi.org/10.1109/ACCESS.2024.3439012)
+   - [Mobile Money Transaction Simulator (MoMTSim) paper](https://doi.org/10.1109/ACCESS.2024.3439012)
 
 ### 2. 🔍 Introduction to Probabilities and Random Variables
 Foundational concepts in probability including experimentation, probability trees, and Bayes Theorem:
