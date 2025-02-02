@@ -44,10 +44,5 @@ Advanced concepts in statistical inference and regression analysis:
 
 ## Method of Delivery
 
-- Blended learning approach with a focus on both learner-centered and teacher-centered methods.
-- Extensive use of examples, module assignments, and practical projects using free statistical computing packages.
+- Practical mini-projects using free statistical computing packages including R and Python (Numpy and SciPy).
 
-## Method of Assessment
-
-- Continuous assessment through tests and assignments (40%).
-- Final examination (60%).
